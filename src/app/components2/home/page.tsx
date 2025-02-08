@@ -49,7 +49,7 @@ export default function Hom (){
         <div className="aj">
           <div className="ak">
             <div className="al">
-            <h3 className="am">EDITOR’S PICK</h3>
+            <h3 className="am">EDITOR&rsquo;S PICK</h3>
             <p className="an"> Problems trying to resolve 
             the conflict between </p>
             </div>
@@ -269,7 +269,7 @@ export default function Hom (){
           <div className="bg">
             <div className="bh">
               <div className="bi">
-                <div className="bz"> 
+                <div className="bz">
                 </div>
                 <div className="bk">
                     <h5 className="bl">Graphic Design</h5>
@@ -392,7 +392,8 @@ export default function Hom (){
         <div className="cp">
           <div className="
           cq">
-            <div className="cy"> <h5>SUMMER 2020</h5></div>
+            <div className="cy
+            "> <h5>SUMMER 2020</h5></div>
             <div className="cr"><h2>Part of the Neural Universe</h2></div>
           <div className="cs"><h4>We know how large objects will act, but things on a small scale.</h4></div>
           <div className="ct">
@@ -442,9 +443,9 @@ export default function Hom (){
                   <small className="du">New</small>
                 </div>
                 <h4 className="dv">Loudest à la Madison #1 
-                (L'integral)</h4>
+                (L&rsquo;integral)</h4>
                 <p className="dw">We focus on ergonomics and meeting 
-you where you work. It's only a 
+you where you work. It&rsquo;s only a 
 keystroke away.</p>
 <div className="dx flex">
   <div className="dy flex">
@@ -498,9 +499,9 @@ keystroke away.</p>
                   <small className="du">New</small>
                 </div>
                 <h4 className="dv">Loudest à la Madison #1 
-                (L'integral)</h4>
+                (L&rsquo;integral)</h4>
                 <p className="dw">We focus on ergonomics and meeting 
-you where you work. It's only a 
+you where you work. It&rsquo;s only a 
 keystroke away.</p>
 <div className="dx flex">
   <div className="dy flex">
@@ -554,9 +555,9 @@ keystroke away.</p>
                   <small className="du">New</small>
                 </div>
                 <h4 className="dv">Loudest à la Madison #1 
-                (L'integral)</h4>
+                (L&rsquo;integral)</h4>
                 <p className="dw">We focus on ergonomics and meeting 
-you where you work. It's only a 
+you where you work. It&rsquo;s only a 
 keystroke away.</p>
 <div className="dx flex">
   <div className="dy flex">
